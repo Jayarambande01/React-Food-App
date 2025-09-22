@@ -1,1 +1,82 @@
-[{"items":[{"id":"m1","name":"Mac & Cheese","price":"8.99","description":"Creamy cheddar cheese mixed with perfectly cooked macaroni, topped with crispy breadcrumbs. A classic comfort food.","image":"images/mac-and-cheese.jpg","quantity":2}],"customer":{"name":"Jaya Ram Bande","email":"198w1a0407@vrsec.ac.in","street":"1st floor, Vagdevi Apartments","postal-code":"521137","city":"Vijayawada"},"id":"318.1106720862228"},{"items":[{"id":"m1","name":"Mac & Cheese","price":"8.99","description":"Creamy cheddar cheese mixed with perfectly cooked macaroni, topped with crispy breadcrumbs. A classic comfort food.","image":"images/mac-and-cheese.jpg","quantity":2}],"customer":{"name":"Jaya Ram Bande","email":"jayarambande01@gmail.com","street":"1st floor, Vagdevi Apartments","postal-code":"521137","city":"Vijayawada"},"id":"269.9734441379522"},{"items":[{"id":"m2","name":"Margherita Pizza","price":"12.99","description":"A classic pizza with fresh mozzarella, tomatoes, and basil on a thin and crispy crust.","image":"images/margherita-pizza.jpg","quantity":1}],"customer":{"name":"Jaya Ram Bande","email":"198w1a0407@vrsec.ac.in","street":"1st floor, Vagdevi Apartments","postal-code":"521137","city":"Vijayawada"},"id":"653.6134123461391"}]
+[
+  {
+    "items": [
+      {
+        "id": "m1",
+        "name": "Mac & Cheese",
+        "price": "8.99",
+        "description": "Creamy cheddar cheese mixed with perfectly cooked macaroni, topped with crispy breadcrumbs. A classic comfort food.",
+        "image": "images/mac-and-cheese.jpg",
+        "quantity": 2
+      }
+    ],
+    "customer": {
+      "name": "Jaya Ram Bande",
+      "email": "198w1a0407@vrsec.ac.in",
+      "street": "1st floor, Vagdevi Apartments",
+      "postal-code": "521137",
+      "city": "Vijayawada"
+    },
+    "id": "318.1106720862228"
+  },
+  {
+    "items": [
+      {
+        "id": "m1",
+        "name": "Mac & Cheese",
+        "price": "8.99",
+        "description": "Creamy cheddar cheese mixed with perfectly cooked macaroni, topped with crispy breadcrumbs. A classic comfort food.",
+        "image": "images/mac-and-cheese.jpg",
+        "quantity": 2
+      }
+    ],
+    "customer": {
+      "name": "Jaya Ram Bande",
+      "email": "jayarambande01@gmail.com",
+      "street": "1st floor, Vagdevi Apartments",
+      "postal-code": "521137",
+      "city": "Vijayawada"
+    },
+    "id": "269.9734441379522"
+  },
+  {
+    "items": [
+      {
+        "id": "m2",
+        "name": "Margherita Pizza",
+        "price": "12.99",
+        "description": "A classic pizza with fresh mozzarella, tomatoes, and basil on a thin and crispy crust.",
+        "image": "images/margherita-pizza.jpg",
+        "quantity": 1
+      }
+    ],
+    "customer": {
+      "name": "Jaya Ram Bande",
+      "email": "198w1a0407@vrsec.ac.in",
+      "street": "1st floor, Vagdevi Apartments",
+      "postal-code": "521137",
+      "city": "Vijayawada"
+    },
+    "id": "653.6134123461391"
+  },
+  {
+    "items": [
+      {
+        "id": "m1",
+        "name": "Mac & Cheese",
+        "price": "8.99",
+        "description": "Creamy cheddar cheese mixed with perfectly cooked macaroni, topped with crispy breadcrumbs. A classic comfort food.",
+        "image": "images/mac-and-cheese.jpg",
+        "quantity": 1
+      }
+    ],
+    "customer": {
+      "name": "Jaya Ram Bande",
+      "email": "198w1a0407@vrsec.ac.in",
+      "street": "1st floor, Vagdevi Apartments",
+      "postal-code": "521137",
+      "city": "Vijayawada"
+    },
+    "id": "428.26813861694046"
+  }
+]
